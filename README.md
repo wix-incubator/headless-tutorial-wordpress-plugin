@@ -1,6 +1,6 @@
 # Wix Headless Tutorial: Create a WordPress Plugin
 
-This repository contains the full source code for the [Wix Headless tutorial: Create a WordPress Plugin](#). As you work through the tutorial, use this repository as reference. You can also enhance or add to the current functionality by using any of the available [Wix Headless APIs](#).
+This repository contains the full source code for the [Wix Headless tutorial: Create a WordPress Plugin](https://dev.wix.com/docs/go-headless/tutorials-templates/other-tutorials/create-a-word-press-plugin). As you work through the tutorial, use this repository as reference. You can also enhance or add to the current functionality by using any of the available [Wix Headless APIs](#).
 
 ## Building the Plugin
 
